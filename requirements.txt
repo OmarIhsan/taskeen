@@ -1,0 +1,5 @@
+openpyxl: For reading Excel files.
+
+python-docx: For creating Word documents.
+
+tkinter: For the graphical user interface (included with Python).
